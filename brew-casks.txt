@@ -11,3 +11,4 @@ docker
 bitwarden
 google-chrome
 bartender
+tableplus

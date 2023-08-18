@@ -3,3 +3,4 @@ fortune
 cowsay
 ffmpeg
 imagemagick
+volta

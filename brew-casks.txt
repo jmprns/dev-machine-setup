@@ -4,7 +4,6 @@ rectangle
 alt-tab
 slack
 vlc
-kap
 visual-studio-code
 postman
 docker

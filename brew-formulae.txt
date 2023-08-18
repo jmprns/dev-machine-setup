@@ -1,0 +1,5 @@
+mas
+fortune
+cowsay
+ffmpeg
+imagemagick

@@ -8,6 +8,7 @@ visual-studio-code
 postman
 docker
 bitwarden
-google-chrome
 bartender
 tableplus
+google-drive
+google-chrome

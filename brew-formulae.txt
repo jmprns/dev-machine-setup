@@ -4,3 +4,4 @@ cowsay
 ffmpeg
 imagemagick
 volta
+awscli

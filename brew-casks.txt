@@ -4,7 +4,7 @@ rectangle
 alt-tab
 slack
 vlc
-visual-studio-code
+phpstorm
 postman
 docker
 bitwarden

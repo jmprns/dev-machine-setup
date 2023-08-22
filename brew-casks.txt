@@ -12,3 +12,4 @@ bartender
 tableplus
 google-drive
 google-chrome
+another-redis-desktop-manager

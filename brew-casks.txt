@@ -7,9 +7,8 @@ vlc
 phpstorm
 postman
 docker
-bitwarden
-bartender
+1password
 tableplus
 google-drive
 google-chrome
-another-redis-desktop-manager
+dozer

@@ -11,4 +11,4 @@ docker
 tableplus
 google-drive
 google-chrome
-dozer
+hiddenbar

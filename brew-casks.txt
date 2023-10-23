@@ -12,3 +12,4 @@ tableplus
 google-drive
 google-chrome
 hiddenbar
+session-manager-plugin
